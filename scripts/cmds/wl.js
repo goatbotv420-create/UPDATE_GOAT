@@ -7,7 +7,7 @@ module.exports = {
     name: "whitelists",
     aliases: ["wlonly", "onlywlst", "onlywhitelist", "wl"],
     version: "1.5",
-    author: "SiFu",
+    author: "𝗯𝗯𝘇",
     countDown: 5,
     role: 0,
     description: {
