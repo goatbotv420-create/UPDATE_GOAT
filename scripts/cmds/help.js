@@ -1,10 +1,10 @@
 // --- Maps for fonts ---
 const smallCapsMap = {
-  a:'ᴀ', b:'ʙ', c:'ᴄ', d:'ᴅ', e:'ᴇ', f:'ꜰ',
-  g:'ɢ', h:'ʜ', i:'ɪ', j:'ᴊ', k:'ᴋ', l:'ʟ',
-  m:'ᴍ', n:'ɴ', o:'ᴏ', p:'ᴘ', q:'ǫ', r:'ʀ',
-  s:'ꜱ', t:'ᴛ', u:'ᴜ', v:'ᴠ', w:'ᴡ', x:'x',
-  y:'ʏ', z:'ᴢ'
+  a:'𝗔', b:'𝗕', c:'𝗖', d:'𝗗', e:'𝗘', f:'𝗙',
+  g:'𝗚', h:'𝗛', i:'𝗜', j:'𝗝', k:'𝗞', l:'𝗟',
+  m:'𝗠', n:'𝗡', o:'𝗢', p:'𝗣', q:'𝗤', r:'𝗥',
+  s:'𝗦', t:'𝗧', u:'𝗨', v:'𝗩', w:'𝗪', x:'𝗫',
+  y:'𝗬', z:'𝗭'
 };
 
 const cmdFontMap = {
@@ -24,7 +24,7 @@ module.exports = {
     name: "help",
     aliases: ["menu"],
     version: "6.0",
-    author: "𝐒𝐈𝐅𝐀𝐓",
+    author: "𝗯𝗯𝘇",
     shortDescription: "Show all available commands",
     longDescription: "Displays a categorized command list.",
     category: "system",
@@ -125,7 +125,7 @@ module.exports = {
       `┍━━━━━━━━━━━━━━━𒐬\n` +
       ` 𓊈🎀𓊉 ᴛᴏᴛᴀʟ ᴄᴏᴍᴍᴀɴᴅꜱ: ${allCommands.size - 1}\n` +
       ` 𓊈🔑𓊉 ᴘʀᴇꜰɪx: ${prefix}\n` +
-      ` 𓊈👑𓊉 ᴏᴡɴᴇʀ: SiZu BBy 🍓\n` +
+      ` 𓊈👑𓊉 𝗢𝗪𝗡𝗘𝗥: 𝗧𝗮𝗺𝗶𝗺 𝗕𝗯𝘇y 🍓\n` +
       `┕━━━━━━━━━━━━━━━𒐬`;
 
     // Removed attachment property
